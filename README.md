@@ -11,7 +11,8 @@ The application validates the user input and ensures that at least one character
 This would be very useful for companies that handle large amounts of sensitive data as weak passwords can pose a huge security threat and cause data leaks. So this would be a ideal application to generate strong passwords effortlessly  to save time as well as ensuring secure access to data.
 
 ## Usage 
-The application is simple to use with just click of a button which then leads to the user being asked to answer some simple prompts so the application can meet the criteria of their required password. The password will the be displayed on the screen. H
+The application is simple to use with just click of a button which then leads to the user being asked to answer some simple prompts so the application can meet the criteria of their required password. The password will the be displayed on the screen. Below I have attached screenshots of the applicationas well as the deployed link:
+https://shabnamfazly.github.io/Week-3-Password-Generator/
 <img src=".\Assets\images\screenshot1.png"/>
 <img src=".\Assets\images\screenshot2.png"/>
 
