@@ -1,7 +1,7 @@
 ## Week-3-Password-Generator
 
 ## Description
-For this challenge my task was to modify some javascript starter code to create a website that will allow the user to generate random passowrds with a certain criteria that they've chosen.When the user clicks the 'generate password' button they will be prompted to choose from the following criteria:
+For this challenge my task was to modify some javascript starter code to create a website that will allow the user to generate a random passoword with a certain criteria that they've chosen.When the user clicks the 'generate password' button they will be prompted to choose from the following criteria:
 * Number of characters
 * Special characters 
 * Numeric characters
@@ -14,6 +14,7 @@ This would be very useful for companies that handle large amounts of sensitive d
 ## Usage 
 The application is simple to use with just click of a button which then leads to the user being asked to answer some simple prompts so the application can meet the criteria of their required password. The password will the be displayed on the screen. Below I have attached screenshots of the applicationas well as the deployed link:
 https://shabnamfazly.github.io/Week-3-Password-Generator/
+
 <img src=".\Assets\images\screenshot1.png"/>
 <img src=".\Assets\images\screenshot2.png"/>
 
